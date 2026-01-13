@@ -27,9 +27,9 @@ const MODELS = {
   groq: [
     { id: 'meta-llama/llama-4-scout-17b-16e-instruct', name: 'Llama 4 Scout (Vision)' },
     { id: 'meta-llama/llama-4-maverick-17b-128e-instruct', name: 'Llama 4 Maverick (Vision)' },
-    { id: 'llama-3.3-70b-versatile', name: 'Llama 3.3 70B Versatile' },
-    { id: 'llama-3.2-90b-vision-preview', name: 'Llama 3.2 90B Vision' },
-    { id: 'mixtral-8x7b-32768', name: 'Mixtral 8x7B' },
+    // { id: 'llama-3.3-70b-versatile', name: 'Llama 3.3 70B Versatile' },
+    // { id: 'llama-3.2-90b-vision-preview', name: 'Llama 3.2 90B Vision' },
+    // { id: 'mixtral-8x7b-32768', name: 'Mixtral 8x7B' },
   ],
 };
 
